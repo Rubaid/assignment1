@@ -1,0 +1,19 @@
+#profile-image{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  float: right;
+}
+.pip{
+	border-bottom: 1px solid #999;
+  padding-bottom: 5px;
+}
+.resume{
+	background-color:#E9EBEE;
+	text-align:center;
+ 
+}
+.last{
+	text-align:center;
+	background-color:#1c1e21;
+}
